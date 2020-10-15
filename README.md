@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Angela 👋
+
+#### A little bit about me ...
+
+🎓 &emsp;I am studying Software Engineering at the University of Waterloo<br>
+💻 &emsp;I am currently working as a Software Developer co-op at [RBC](https://www.rbc.com/canada.html) doing backend development, and have previously worked at [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
+💞 &emsp;I am the Web Developer for [University of Waterloo Women in STEM](https://uwwistem.com/) and actively am actively involved in facilitating events for students<br>
+🌱 &emsp;I love all things environment and sustainability
+
+#### Think we should collaborate? Reach out to me on [LinkedIn](https://www.linkedin.com/in/angela-dietz/) or by [email](mailto:acdietz@uwaterloo.ca)! I'm always on the lookout for internship opportunities, and new projects to work on 👯
 
 <!--
 **angeladietz/angeladietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
