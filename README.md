@@ -3,7 +3,7 @@
 #### A little bit about me ...
 
 🎓 &emsp;I am studying Software Engineering at the University of Waterloo<br>
-💻 &emsp;I am currently working as a Software Developer co-op at [RBC](https://www.rbc.com/canada.html) doing backend development, and have previously worked at [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
+💻 &emsp;I am currently working as a Software Developer co-op at [RBC](https://www.rbc.com/canada.html) doing backend development, and have previously completed software engineering internships at [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
 💞 &emsp;I am the Web Developer for [University of Waterloo Women in STEM](https://uwwistem.com/) and actively am actively involved in facilitating events for students<br>
 🌱 &emsp;I love all things environment and sustainability
 
