@@ -3,8 +3,8 @@
 #### A little bit about me ...
 
 🎓 &emsp;I'm studying Software Engineering at the University of Waterloo<br>
+💙 &emsp;I'm looking forward to completing a SWE internship at LinkedIn this summer<br>
 💻 &emsp;I have completed SWE internships at [RBC](https://www.rbc.com/canada.html), [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
-💞 &emsp;I'm the Web Developer for [University of Waterloo Women in STEM](https://uwwistem.com/) and am actively involved in facilitating events for students<br>
 🌱 &emsp;I love all things environment and sustainability
 
 #### Think we should collaborate? Reach out to me on [LinkedIn](https://www.linkedin.com/in/angela-dietz/) or by [email](mailto:acdietz@uwaterloo.ca)! I'm always on the lookout for internship opportunities, and new projects to work on 👯
