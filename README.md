@@ -3,7 +3,7 @@
 #### A little bit about me ...
 
 🎓 &emsp;I'm studying Software Engineering at the University of Waterloo<br>
-💙 &emsp;I'm currently working as a Backend Systems Infra Engineer Intern at LinkedIn<br>
+💙 &emsp;I'm currently working as a Backend Systems & Infra Engineer Intern at LinkedIn<br>
 💻 &emsp;I have completed SWE internships at [RBC](https://www.rbc.com/canada.html), [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
 🌱 &emsp;I love all things environment and sustainability
 
