@@ -2,25 +2,9 @@
 
 #### A little bit about me ...
 
-🎓 &emsp;I'm studying Software Engineering at the University of Waterloo<br>
-💙 &emsp;I'm currently working as a Backend Systems & Infra Engineer Intern at LinkedIn<br>
-🎒 &emsp;I'm a developer for UW Blueprint, a student organization that builds tech projects for non-profits.<br>
-💻 &emsp;I have completed SWE internships at [RBC](https://www.rbc.com/canada.html), [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/)<br>
-🌱 &emsp;I love all things environment and sustainability
+🎓 &emsp;I'm a fourth year Software Engineering student at the University of Waterloo.<br>
+💙 &emsp;I'm a developer for [UW Blueprint](https://uwblueprint.org), a student organization that builds tech projects for non-profits. I'm currently working on building a web application for Richmond Centre for Disability. [Check it out](https://github.com/uwblueprint/richmond-centre-for-disability)!<br>
+💻 &emsp;I have completed SWE internships at [LinkedIn](https://engineering.linkedin.com) [RBC](https://www.rbc.com/canada.html), [Connected](https://www.connected.io/) and [Tangam Systems](https://www.tangamsystems.com/).<br>
+🌱 &emsp;I love all things environment and sustainability!
 
 #### Think we should collaborate? Reach out to me on [LinkedIn](https://www.linkedin.com/in/angela-dietz/) or by [email](mailto:acdietz@uwaterloo.ca)! I'm always on the lookout for internship opportunities, and new projects to work on 👯
-
-<!--
-**angeladietz/angeladietz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
